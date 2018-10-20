@@ -128,7 +128,7 @@ void menu()
 			}
 			else if(co==127){
 				CLS;
-				cout<<"GitHub:https://github.com/ChinaMacrohard/Memory-strategy\n\n";
+				cout<<"GitHub:https://github.com/MacroDeveloper/Memory-strategy\n\n";
 				cout<<"what is this?\n";
 				cout<<"This is a memory strategy, developed based on a memory-assisted tutorial for psychology. It is a small gift made by a representative of the psychology department.\n\n";
 				cout<<"development team\n";
@@ -139,7 +139,7 @@ void menu()
 				cout<<"Project finishing: Macrohard\n";
 				cout<<"Chief Consultant: Sky\n\n";
 				cout<<"Copyright and statement\n";
-				cout<<"The entire contents of this software are provided under the terms of the MIT Open Source License and additional terms may apply.\n\n";
+				cout<<"The entire contents of this software are provided under the terms of the MIT Open Source License and the Attribution-Share Alike 4.0 Agreement, and additional terms may apply.\n\n";
 				cout<<"Warning: It is strictly forbidden to use the relevant content of this software to endanger the People's Republic of China and the international community. Offenders will be subject to legal sanctions.\n";
 				system("pause");
 			}
@@ -158,7 +158,7 @@ short flag=2;
 
 int main()
 {
-	system("title ¼ÇÒä¹¥ÂÔ github:ChinaMacrohard");
+	system("title Memory strategy GitHub:Milarodvich");
 	menu();
 	srand((unsigned)time(NULL));
 	hind_cursor();
